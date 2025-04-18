@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #007BFF !important;
+}
+
+.navbar .nav-link {
+    color: white !important; 
+}
+
+.navbar .nav-link:hover {
+    color: #FFD700 !important;
+}
+
+.navbar .btn-outline-success {
+    color: white !important;
+    background-color: #0056b3 !important;  /* 更深的蓝色 */
+    border-color: #0056b3 !important;
+}
+
+.navbar .btn-outline-success:hover {
+    background-color: #004494 !important;  /* 悬停时更深蓝 */
+    border-color: #004494 !important;
+}
